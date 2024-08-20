@@ -103,7 +103,7 @@ multidict==6.0.4
 namex==0.0.7
 nest-asyncio==1.6.0
 networkx==3.2.1
-nltk==3.8.1
+nltk==3.9
 numpy==1.24.2
 onnx==1.16.1
 onnxconverter-common==1.13.0
