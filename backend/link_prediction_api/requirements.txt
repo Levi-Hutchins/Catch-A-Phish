@@ -28,7 +28,7 @@ coloredlogs==15.0.1
 comm==0.2.2
 configparser==6.0.0
 contourpy==1.2.0
-cryptography==41.0.7
+cryptography==43.0.1
 cssselect==1.2.0
 cycler==0.12.1
 debugpy==1.8.1
