@@ -105,7 +105,7 @@ nest-asyncio==1.6.0
 networkx==3.2.1
 nltk==3.8.1
 numpy==1.24.2
-onnx==1.16.1
+onnx==1.17.0
 onnxconverter-common==1.13.0
 onnxruntime==1.16.3
 openai==1.6.1
